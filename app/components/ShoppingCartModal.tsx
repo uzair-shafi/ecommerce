@@ -95,7 +95,7 @@ export default function ShoppingCartModal() {
               <p>${totalPrice}</p>
             </div>
             <p className="mt-0.5 text-sm text-gray-500">
-              Shipping and taxes are calculated at checkout.
+              Shipping and taxes will be calculated at checkout.
             </p>
 
             <div className="mt-6">
